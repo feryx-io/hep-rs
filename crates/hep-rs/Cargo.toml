@@ -1,6 +1,7 @@
 [package]
 name        = "hep-rs"
 description = "HEP3 (Homer Encapsulation Protocol v3) codec and transport."
+readme      = "../../README.md"
 version.workspace      = true
 edition.workspace      = true
 rust-version.workspace = true
