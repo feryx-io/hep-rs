@@ -12,7 +12,7 @@ rtpengine. This crate brings the same capability to Rust-based stacks.
 
 ## Status
 
-Early. v0.0.1 ships the codec, a `HepSink` trait, and a non-blocking UDP
+Early. v0.1.0 ships the codec, a `HepSink` trait, and a non-blocking UDP
 transport. TCP, TLS, RTP-QoS chunk encoding, and HEPlify-Server auth
 round-trip are deferred to follow-up releases.
 
